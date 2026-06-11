@@ -69,7 +69,7 @@ We would like to sincerely thank:
 
 ![Archivo Federal Logo](/doc/sigma-et-archivo-800x100.png)
 
-> Le directorya special de preservacion digital de le Archivo Federal, in le exercion de su regimental attribucions, et considerand le requisicion formal presentad per le SIGMA Technology Group, actuand in nomen et per solicitacion de le communidads dedicat ad le preservacion de computer games, resolve disponibilizar le distribucion de software denominad “Miles Sound System 9.3b”, integrant de le archivo digital supo su custodia, in accordance com le applicabil legal et normativ disposicions.
+> Le directorya special de preservacion digital de le Archivo Federal, in le exercion de su regimental attribucions, et considerand le requisicion formal presentad per le SIGMA Technology Group, actuand in nomen et per solicitacion de le communidads dedicat ad le preservacion de computer games, resolve disponibilizar le distribucion de software denominad “Miles Sound System 6.5c”, integrant de le archivo digital supo su custodia, in accordance com le applicabil legal et normativ disposicions.
 
 This package is provided for educational, preservation, and modding purposes only. RAD Game Tools reserve to itself any licensing, including, but not restricted to, commercial use.
 
